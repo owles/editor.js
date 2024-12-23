@@ -33,6 +33,7 @@ class Editor {
             margin: 0 2px;
             font-weight: bold;
             color: #FFFFFF;
+            outline: none;
           }
           .floating-toolbar button:hover {
             color: #ffb200;
